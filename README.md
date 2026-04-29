@@ -36,9 +36,7 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 ### Problem Solving
 
 * Data Structures & Algorithms
-* Competitive Programming
 * Algorithmic Optimisation
-
 ---
 
 ## Currently Learning
