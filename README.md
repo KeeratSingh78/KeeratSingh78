@@ -1,16 +1,73 @@
-## Hi there 👋
+# Keerat Jeet Singh
 
-<!--
-**KeeratSingh78/KeeratSingh78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Engineering | Cloud Computing | Distributed Systems
 
-Here are some ideas to get you started:
+Final-year BCA student at CHRIST University focused on backend development, scalable architectures, cloud infrastructure, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,mongodb,redis,aws,docker,kubernetes,git,github" />
+</p>
+
+### Backend Development
+
+* Java
+* Spring Boot
+* REST APIs
+* Microservices Architecture
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+### Cloud & DevOps
+
+* AWS (EC2, RDS, S3, Lambda)
+* Docker
+* Kubernetes
+* Git & GitHub
+
+### Problem Solving
+
+* Data Structures & Algorithms
+* Competitive Programming
+* Algorithmic Optimization
+
+---
+
+## Currently Learning
+
+* Advanced System Design
+* Distributed Systems
+* Cloud Infrastructure & Scalability
+* AWS Certification Preparation
+
+---
+
+## LeetCode Progress
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/KeeratSingh09?theme=dark\&font=Nunito\&ext=contest)
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+## Connect With Me
+
+* LinkedIn: [Keerat Jeet Singh](https://www.linkedin.com/in/keerat-jeet-singh-377119301/)
+* LeetCode: [KeeratSingh09](https://leetcode.com/u/KeeratSingh09/)
+* Email: [skeerat696@gmail.com](mailto:skeerat696@gmail.com)
