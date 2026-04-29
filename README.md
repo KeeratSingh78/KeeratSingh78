@@ -37,7 +37,7 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 
 * Data Structures & Algorithms
 * Competitive Programming
-* Algorithmic Optimization
+* Algorithmic Optimisation
 
 ---
 
@@ -58,13 +58,7 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
-
----
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeeratSingh78\&show_icons=true\&theme=tokyonight)
 
 ## Connect With Me
 
