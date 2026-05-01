@@ -55,11 +55,7 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 ---
 
 ## GitHub Statistics
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KeeratSingh78&show_icons=true&theme=transparent&hide_border=true)
-
+![GitHub Streak](https://streak-stats.demolab.com?user=KeeratSingh78&theme=tokyonight)
 
 ## Connect With Me
 
