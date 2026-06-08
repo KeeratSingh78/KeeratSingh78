@@ -1,6 +1,8 @@
 # Keerat Jeet Singh
 
-Backend Engineering | Cloud Computing | Distributed Systems
+### Java Backend Developer | Cloud Computing Enthusiast | Distributed Systems Learner
+
+![](https://komarev.com/ghpvc/?username=KeeratSingh78\&color=blue)
 
 Final-year BCA student at CHRIST University focused on backend development, scalable architectures, cloud infrastructure, and problem-solving.
 
@@ -37,6 +39,8 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 
 * Data Structures & Algorithms
 * Algorithmic Optimisation
+* Competitive Programming
+
 ---
 
 ## Currently Learning
@@ -49,6 +53,7 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 ---
 
 ## LeetCode Progress
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/KeeratSingh09?theme=dark&font=Nunito&ext=contest" />
 </p>
@@ -59,13 +64,22 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 
 ---
 
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KeeratSingh78&theme=tokyonight" />
+</p>
+
 ---
 
-## GitHub Statistics
-![GitHub Streak](https://streak-stats.demolab.com?user=KeeratSingh78&theme=tokyonight)
 
 ## Connect With Me
 
-* LinkedIn: [Keerat Jeet Singh](https://www.linkedin.com/in/keerat-jeet-singh-377119301/)
-* LeetCode: [KeeratSingh09](https://leetcode.com/u/KeeratSingh09/)
+* LinkedIn: https://www.linkedin.com/in/keerat-jeet-singh-377119301/
+* GitHub: https://github.com/KeeratSingh78
+* LeetCode: https://leetcode.com/u/KeeratSingh09/
 * Email: [skeerat696@gmail.com](mailto:skeerat696@gmail.com)
+
+---
+
+### Building scalable backend systems, one problem at a time.
