@@ -51,7 +51,7 @@ Final-year BCA student at CHRIST University focused on backend development, scal
 ## LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/KeeratSingh09?theme=dark\&font=Nunito\&ext=contest)
-
+[KeeratSingh09](https://leetcode.com/u/KeeratSingh09/)
 ---
 
 ## GitHub Statistics
